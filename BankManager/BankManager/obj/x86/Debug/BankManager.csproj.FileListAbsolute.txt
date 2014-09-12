@@ -1,0 +1,9 @@
+G:\Projects\.NET\ADO\BankManager\BankManager\bin\Debug\BankManager.exe
+G:\Projects\.NET\ADO\BankManager\BankManager\bin\Debug\BankManager.pdb
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\BankManager.MainForm.resources
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\BankManager.Properties.Resources.resources
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\BankManager.exe
+G:\Projects\.NET\ADO\BankManager\BankManager\obj\x86\Debug\BankManager.pdb
